@@ -1,0 +1,9 @@
+[user]
+username: connor-thomas
+token: fda50148d982c65f1a116e3d5932e1f5b89c6da97c4c24917d315ee09884e2bd
+
+[kattis]
+hostname: open.kattis.com
+loginurl: https://open.kattis.com/login
+submissionurl: https://open.kattis.com/submit
+submissionsurl: https://open.kattis.com/submissions
